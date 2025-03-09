@@ -27,7 +27,6 @@ AllowShortFunctionsOnASingleLine: false
 AllowShortIfStatementsOnASingleLine: false
 AlignTrailingComments: true
 
-# Appended Options
 SortIncludes: false
 Standard: Latest
 AlignAfterOpenBracket: Align
