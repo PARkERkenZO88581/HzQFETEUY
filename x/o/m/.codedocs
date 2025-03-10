@@ -135,7 +135,6 @@ IMAGE_PATH = docs/pictures
 # INLINE_SOURCES =
 INPUT = docs/doxygen/doxygen \
         src/xtd/include/xtd \
-        src/xtd.core/include \
         src/xtd.drawing/include \
         src/xtd.forms/include \
         src/xtd.tunit/include
