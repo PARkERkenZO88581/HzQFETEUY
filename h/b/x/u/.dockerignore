@@ -1,6 +1,5 @@
 .packager
 .packager/**
-scripts
 scripts/**
 .github/
 .github/**
